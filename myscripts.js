@@ -1,1 +1,3 @@
-$("#myButton").click(alert("hello"));
+$("#myButton").click(function(){
+  $(".hideMe").hide();
+});
