@@ -1,1 +1,1 @@
-window.onload(alert("hello!'));
+window.onload(alert("hello!"));
